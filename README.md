@@ -1,4 +1,4 @@
-![Screenshot 2024-02-15 085401](https://github.com/QiangZhuang95/Presentation-Video-Auto-Generator/assets/145950686/76a64cfc-3635-4435-80ed-98cc815cf7b8)# Presentation-Video-Auto-Generator
+
 
 🚀 项目介绍：自动生成演讲视频的小实验
 大家好！今天我想和大家分享一个小项目，灵感来源于狗哥的一次直播。记得那是我第一次听他的直播，他提出了一个超酷的概念，让我眼前一亮。想象一下，如果我们能把演讲稿自动转换成演讲视频，那会有多酷？对于我这种每个学期都要忙于准备无数演讲的学生来说，这简直是救星！
